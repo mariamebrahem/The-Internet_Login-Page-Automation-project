@@ -4,7 +4,10 @@ Login Automation Project using selenium ,TestNG and Cucumber For The Internet We
 
 
 
-https://github.com/mariamebrahem/The-Internet_Login-Page-Automation-project/assets/144498701/e50106aa-e005-449f-80d8-4afc5dd1263b
+
+
+https://github.com/mariamebrahem/The-Internet_Login-Page-Automation-project/assets/144498701/f91a8020-74ed-4f12-be0c-2ef27a0e6e43
+
 
 
 
